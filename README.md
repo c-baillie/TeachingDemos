@@ -12,6 +12,13 @@ Synthetic data set suggested by Friedman as a benchmark dataset. The cases are g
 model = lm(y~x, data=data, family="binomial")
 plot(model)
 ```
+
+```
+modle output 
+```
+
+**Figure 1: Variables**
+
 ![](OPLS_example_files/figure-html/unnamed-chunk-9-1.png)
 
 **REFERENCES**               
