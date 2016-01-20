@@ -18,8 +18,7 @@ modle output
 ```
 
 **Figure 1: Variables**
-
-![](OPLS_example_files/figure-html/unnamed-chunk-9-1.png)
+![final10](https://cloud.githubusercontent.com/assets/13425382/12455061/1d6466c2-bf68-11e5-96ad-078a3e40d7d4.png)
 
 **REFERENCES**               
 Jerome H. Friedman, Multivariate adaptive regression splines, The Annals of Statistics, 19(1):1-141, 1991. 
