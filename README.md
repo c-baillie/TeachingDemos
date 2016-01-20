@@ -27,6 +27,10 @@ modle output
 Additional attempt at figure placement:
 ![figure1](figures/Rplot1.png)
 
+![figure1](/figures/Rplot01.png)
+
+
+
 **REFERENCES**               
 Jerome H. Friedman, Multivariate adaptive regression splines, The Annals of Statistics, 19(1):1-141, 1991.
 Leo Breiman, Jerome H. Friedman, Charles J. Stone and R. A. Olson, Classification and Regression Trees, Chapman and Hall, 1984
