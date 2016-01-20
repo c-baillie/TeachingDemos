@@ -25,14 +25,14 @@ modle output
 <a href="url"><img src="https://cloud.githubusercontent.com/assets/13425382/12455061/1d6466c2-bf68-11e5-96ad-078a3e40d7d4.png)(https://cloud.githubusercontent.com/assets/13425382/12455061/1d6466c2-bf68-11e5-96ad-078a3e40d7d4.png" width="400" height="400"></a>
 
 Additional attempt at figure placement:
-![](TeachingDemos/figures/Rplot1.png)
+![figure1](figures/Rplot1.png)
 
 **REFERENCES**               
 Jerome H. Friedman, Multivariate adaptive regression splines, The Annals of Statistics, 19(1):1-141, 1991.
 Leo Breiman, Jerome H. Friedman, Charles J. Stone and R. A. Olson, Classification and Regression Trees, Chapman and Hall, 1984
 
 **Equations**         
-Editing done with (http://www.sciweavers.org/free-online-latex-equation-editor) + google docs insert with ().
+Editing done with            http://www.sciweavers.org/free-online-latex-equation-editor + google docs insert with ().
 =======
 =======
 
