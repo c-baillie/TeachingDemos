@@ -20,7 +20,7 @@ modle output
 **Figure 1: Variables**
 ![final10](https://cloud.githubusercontent.com/assets/13425382/12455061/1d6466c2-bf68-11e5-96ad-078a3e40d7d4.png)
 
-<img src="https://cloud.githubusercontent.com/assets/13425382/12455061/1d6466c2-bf68-11e5-96ad-078a3e40d7d4.png)(https://cloud.githubusercontent.com/assets/13425382/12455061/1d6466c2-bf68-11e5-96ad-078a3e40d7d4.png" width="48">
+<a href="url"><img src="https://cloud.githubusercontent.com/assets/13425382/12455061/1d6466c2-bf68-11e5-96ad-078a3e40d7d4.png)(https://cloud.githubusercontent.com/assets/13425382/12455061/1d6466c2-bf68-11e5-96ad-078a3e40d7d4.png" width="400" height="400"></a>
 
 **REFERENCES**               
 Jerome H. Friedman, Multivariate adaptive regression splines, The Annals of Statistics, 19(1):1-141, 1991. 
