@@ -12,6 +12,7 @@ Synthetic data set suggested by Friedman as a benchmark dataset. The cases are g
 model = lm(y~x, data=data, family="binomial")
 plot(model)
 ```
+![](OPLS_example_files/figure-html/unnamed-chunk-9-1.png)
 
 **REFERENCES**               
 Jerome H. Friedman, Multivariate adaptive regression splines, The Annals of Statistics, 19(1):1-141, 1991. 
