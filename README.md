@@ -29,6 +29,7 @@ Additional attempt at figure placement:
 
 ![figure1](/figures/Rplot01.png)
 
+![Meta-Analaysis](forest2.png)
 
 
 **REFERENCES**               
